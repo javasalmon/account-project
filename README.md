@@ -19,3 +19,15 @@ Checkout the code and build it with maven using :
 To run the app :
 
     mvn spring-boot:run
+    
+To test REST API:
+    
+    Use postman
+
+![Get-Accounts1](img/getaccounts.png)
+![Post-Account](img/postaccount.png)
+![Get-Accounts2](img/getaccountwithnewrecords.png)
+![Delete-Account](img/deleteaccount.png)
+![Get-Accounts3](img/getaccounts.png)
+
+
