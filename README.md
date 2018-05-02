@@ -44,4 +44,7 @@ To test REST API:
 
 ![Get-Accounts3](img/getaccounts.png)
 
+See h2-console for table records
+
+![h2-console](img/h2-console.png)
 
